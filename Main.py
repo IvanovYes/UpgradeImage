@@ -62,9 +62,6 @@ if __name__ == "__main__":
     image = cv.filter2D(image, -1, kernel)
     image = cv.bilateralFilter(image, 5, 75, 75)
 
-    cv.imshow(' ', image)
-    cv.waitKey(0)
-
     # Вывод обработанного изображения
     imageOrig = cv.cvtColor(imageOrig, cv.COLOR_BGR2RGB)
     image = cv.cvtColor(image, cv.COLOR_BGR2RGB)
