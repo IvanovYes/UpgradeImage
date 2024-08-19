@@ -6,4 +6,5 @@
 
 Примеры результатов работы программы:
 
-![alternative-beautiful](https://github.com/user-attachments/assets/bf40a057-dcd8-4e95-929a-211c43cc6c58)
+![Figure_1](https://github.com/user-attachments/assets/3ba72e41-ef3d-4063-b2be-5618bcbc52d6)
+
