@@ -48,6 +48,7 @@ def BalanceWhight(imageL):
 if __name__ == "__main__":
     print("Введите путь к изображению (используйте прямой слэш): ")
     frame = input()
+
     # Считываем изображение
     imageOrig = cv.imread(frame, 1)
 
